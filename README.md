@@ -18,7 +18,7 @@ To analyze and visualize sales trends, regional performance, and product-wise in
 ![Dashboard Screenshot](C:\Users\GURLEEN\OneDrive\Desktop\Visual.png)
 
 - ## 📥 Download the Dashboard
-👉 [Click here to download the Power BI file](Project 1 (Sales Data Analysis.pbix))
+👉 [Click here to download the Power BI file](Project 1 (Sales Data Analysis).pbix)
 
 ## 📥 How to Use
 Download and open the `.pbix` file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
