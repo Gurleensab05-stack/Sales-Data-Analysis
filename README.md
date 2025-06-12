@@ -15,7 +15,7 @@ To analyze and visualize sales trends, regional performance, and product-wise in
 - Dynamic filters for slicing data
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](visuals/dashboard-snapshot.png)
+![Dashboard Screenshot](visualsdashboard-snapshot.png)
 
 - ## 📥 Download the Dashboard
 👉 [Click here to download the Power BI file](Sales-Data-Analysis.pbix)
